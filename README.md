@@ -11,3 +11,10 @@ Data Camp data scientist with python track. <br />
 
 ### Projects:
 - Investigating Netflix Movies and Guest Stars in The Office
+
+### Skills:
+- Python. 
+- Numpy.
+- Matlibplot.
+- Pandas.
+- Data manipulation and cleaning.
